@@ -96,7 +96,8 @@ Name | Description
 ## Requested scopes and granted scopes
 
 The `scope` attribute lists scopes attached to the token that were granted by
-the user. Normally, these scopes will be identical to what you requested.
+the user. Normally, these scopes will be identical to w
+hat you requested.
 However, users can edit their scopes, effectively
 granting your application less access than you originally requested. Also, users
 can edit token scopes after the OAuth flow is completed.
